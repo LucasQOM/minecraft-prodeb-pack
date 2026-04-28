@@ -1,0 +1,13 @@
+name = "OfflineSkins"
+filename = "offlineskins-1.21.1-v1a-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6f9d5eb4ead456d25af46112a57ee9fa3101a4e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5624396
+project-id = 241420

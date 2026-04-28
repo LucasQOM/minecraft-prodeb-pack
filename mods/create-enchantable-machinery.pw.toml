@@ -1,0 +1,13 @@
+name = "Create: Enchantable Machinery"
+filename = "createenchantablemachinery-3.4.3+mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2a13de8e1695a0876f7e4a88f9abd44c8642c83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7172774
+project-id = 1061749
