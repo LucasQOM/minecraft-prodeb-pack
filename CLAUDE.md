@@ -107,7 +107,7 @@ Mods client-only já marcados neste pack:
 - Xaero's Minimap, Xaero's World Map
 - EMI, EMI Enchanting, EMI Loot
 - Not Enough Animations, Skin Layers 3D, OK Zoomer
-- Shoulder Surfing, Freecam, Mouse Tweaks, Nature's Compass
+- Shoulder Surfing, Freecam, Mouse Tweaks
 - Todos os shaderpacks (shaderpacks/*.pw.toml)
 - Fresh Animations (resourcepacks/fresh-animations.pw.toml)
 
