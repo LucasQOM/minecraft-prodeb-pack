@@ -2685,7 +2685,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "25b8bdcc9e3aca5c16e79eb3e3deddf7e0c34e5a8038d77c535d948ecfa0661e"
+hash = "4239bf33a2c6d92f5e8041880353d5b15701a7e202b2385494bc4a96d22a8106"
 metafile = true
 
 [[files]]
@@ -2895,7 +2895,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "0e7ca8cb57c5c68c0f348903430e221677a0ca5392e7ac24e759e8983883fc23"
+hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
 metafile = true
 
 [[files]]
@@ -3114,6 +3114,11 @@ hash = "5bf337426a2d17721a05f611e4fb5bede13296703848b8fc7a84d3d538988d68"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "4cf3d3d7e5f4df819d5b67ab0b278a6baffdf880e2a2c9c4d0105fbfe3986376"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "cc9ce18e55788ddd2031e1c0f4d410053bb9b28f76da9d61cc0c9a57260597fa"
 metafile = true
@@ -3210,7 +3215,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "9b9225e55080de70d5a47c71c29f39675b729941a0214eca2d2b31f0bd14b8c1"
+hash = "b0a52e9ae1213ac58bc452fa09bf4f88ab2603d6368f707c94ac29276e39b2aa"
 metafile = true
 
 [[files]]
