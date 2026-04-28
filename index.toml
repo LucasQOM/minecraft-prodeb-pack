@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CLAUDE.md"
-hash = "492495787a138df977b43e01ecbbe6491b39237b0f29593465982177a1afa31d"
+hash = "6e07fd2c11882b226964686ef75e2cc02837c900c7253f7bec4ea5a60c936ce3"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -3210,7 +3210,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "b0a52e9ae1213ac58bc452fa09bf4f88ab2603d6368f707c94ac29276e39b2aa"
+hash = "9b9225e55080de70d5a47c71c29f39675b729941a0214eca2d2b31f0bd14b8c1"
 metafile = true
 
 [[files]]
