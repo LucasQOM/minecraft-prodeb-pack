@@ -3,9 +3,9 @@ filename = "create-central-kitchen-2.2.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9cf552c6a83f66293aa1f58b4d9676cf45ecfbf8"
-mode = "metadata:modrinth"
+url = "https://cdn.modrinth.com/data/btq68HMO/versions/rYgctWCz/create-central-kitchen-2.2.6.jar"
+hash-format = "sha512"
+hash = "f6e0ffce362ae76b047e2ce82580436c569f85d3c2ef19d4e97fb4cc7b18309ff54c9f414335c68eed2e4b19d374711320fbc32275834f10eb1ee47250625b50"
 
 [update]
 [update.modrinth]

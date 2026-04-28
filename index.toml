@@ -2685,7 +2685,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
-hash = "4239bf33a2c6d92f5e8041880353d5b15701a7e202b2385494bc4a96d22a8106"
+hash = "dbdb686363922b46666480726b8470cbb8a6ed8386c5c3f20ff6ac06b0654e67"
 metafile = true
 
 [[files]]
