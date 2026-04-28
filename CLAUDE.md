@@ -55,8 +55,16 @@ D:\packwiz.exe update --all
 
 ### Publicar atualização (clientes e servidor recebem automaticamente)
 
+**Sempre antes de commitar**, verificar se o `pack.toml` foi atualizado pelo packwiz:
+
 ```bash
-git add .
+git diff pack.toml
+```
+
+O `packwiz refresh` (e qualquer operação que altere o index) atualiza o hash do `index.toml` dentro do `pack.toml`. Se esse hash não for commitado junto, o packwiz-installer nos clientes continua lendo o index antigo e não baixa os mods novos.
+
+```bash
+git add pack.toml index.toml mods/   # sempre inclua pack.toml!
 git commit -m "descrição da mudança"
 git push
 ```
