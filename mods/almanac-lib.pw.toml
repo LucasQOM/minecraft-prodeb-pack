@@ -1,13 +1,13 @@
 name = "Almanac Lib"
-filename = "Almanac-1.21.1-2-neoforge-1.5.0.jar"
+filename = "Almanac-1.21.1-2-neoforge-1.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8316c8bb645f5b9f44c66e0f6c4379fef61365d2"
+hash = "d613dbc38ca5bcc718408db432385c2e67ac763f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7150137
+file-id = 7489091
 project-id = 1115285
