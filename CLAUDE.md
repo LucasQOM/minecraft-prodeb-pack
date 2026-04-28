@@ -43,6 +43,15 @@ D:\packwiz.exe curseforge install <slug-ou-url>
 
 Depois de adicionar, verificar se o mod é client-only e ajustar `side` se necessário (ver seção abaixo).
 
+**Atenção ao editar `.pw.toml` de mods Modrinth manualmente:** nunca usar `mode = "metadata:modrinth"` — o packwiz-installer desta instância não suporta esse modo e lança `Unsupported download mode`. Mods do Modrinth devem usar URL direta:
+```toml
+[download]
+url = "https://cdn.modrinth.com/data/<project-id>/versions/<version-id>/<filename>.jar"
+hash-format = "sha512"
+hash = "<sha512>"
+```
+Quando instalado pelo CLI (`packwiz modrinth install`), o formato correto é gerado automaticamente.
+
 ### Atualizar mods existentes
 
 ```bash
