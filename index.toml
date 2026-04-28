@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CLAUDE.md"
-hash = "2bcb6c0872b4bf9d6363b563cc2e56d0abed9d1a8c28d1e0643d18729dc364f3"
+hash = "492495787a138df977b43e01ecbbe6491b39237b0f29593465982177a1afa31d"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -2860,17 +2860,17 @@ metafile = true
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
-hash = "d5d0f406f5e60aee3bc367ffc0f55779d98a8a77592875eca7d8682fa6bf21b5"
+hash = "e5fc842d500bcfc7b82c631150c26a011ee40588676fe85235dba3d009459d3f"
 metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8f7bd30f605fbd8c1b67094327c4148191d352cbb422d80c670fcec13b476757"
+hash = "62f182de0e7d3fa919acf6505b1b7587335528ec39566eb1c755c9be706f6bd1"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "5c16e2a4ad71d08653b2716e82201f55fa719fde840e27eb320f0339c086c82f"
+hash = "1738064908e96d1bf169a4a50e3781f7d4c9c29e5c172172c800bacbc2bc9952"
 metafile = true
 
 [[files]]
@@ -2900,12 +2900,12 @@ metafile = true
 
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
-hash = "bd8cd6edef16a97b9364e3d60188bb0e763d7051d948c8b5e255a9eeb61520ea"
+hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
 file = "mods/free-cam.pw.toml"
-hash = "c80e4ffe33dcb05b827617608abaf485359ec169e85298a0bd4556ae19034ec0"
+hash = "6cb0747f46236c96b3132b4d8bee0fd2b1409340dace5dc7b336a5534fa597f5"
 metafile = true
 
 [[files]]
@@ -2940,7 +2940,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "1e79878f8fd4c989557e4e8ae6b7f487308720dbcda68f7cff670805bd4d15c0"
+hash = "e34877bf9d74d3f71c69fdd47ce509fa473fadcdf88f87f79754a522cfa1c60b"
 metafile = true
 
 [[files]]
@@ -3010,7 +3010,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "473e4f7e4a7a38a7d352403d7496adc45edbed6492f1b2c16bb8eaf1337cb258"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -3020,7 +3020,7 @@ metafile = true
 
 [[files]]
 file = "mods/natures-compass.pw.toml"
-hash = "12d31f375a9a045942d669b868c48cda93dadec49ef74c89862fd949fcb02f1d"
+hash = "81ff4307639f5478fabb23b449383e3ab2070372385db45d7bc7443e7b305cca"
 metafile = true
 
 [[files]]
@@ -3030,7 +3030,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f3d631974fba5dc900fcac832927ebe9aab756cac379ab831b1a87ea1d198b48"
+hash = "22822439f417352fcd14054d083f67500affebc900f681e0ba24899a569c2266"
 metafile = true
 
 [[files]]
@@ -3040,7 +3040,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "4b711370c3b30ef7f69d514d93e02f9941f0a94393183fddfb656178afc684dd"
+hash = "ef34117249cbd90203a1b7453338edc707fb35d426dc930e2404111f5f714327"
 metafile = true
 
 [[files]]
@@ -3075,7 +3075,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "25415bd7c7e03115f8857ba86a2896e14e2df08ff7cb4b92d59f823f8161d6cb"
+hash = "e5a88eeea38105e024dc8c8849e28d90af25cec68f1d0f6716796fe9746bddd2"
 metafile = true
 
 [[files]]
@@ -3090,7 +3090,7 @@ metafile = true
 
 [[files]]
 file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "6a5137a9e7a0c622b7047a0923d128fa43557f9f458e847e2d501724a81fd548"
+hash = "400bdecc33b0402a0260509c61f43bf3539517ed49231a518899585038dfd007"
 metafile = true
 
 [[files]]
@@ -3110,7 +3110,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "3dd6669cc6422975c35a9c54cfe98410eeb736f57c4b9e77f3f4f4279cfa5a59"
+hash = "921b911bb9c5315423373c73f7dcbc3a5b02e6970fae52cd25154b7918640b89"
 metafile = true
 
 [[files]]
@@ -3125,17 +3125,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "61fe8f04c6222ed49f3055d8fe8d3c661d99e664e85a6a079f06adf53bedf0d2"
+hash = "03d264a85c6b6fd0f011c958caf94a3238931fdd48c5c156ddb6e13fc16ce601"
 metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "b6f3dcdf1720bcc833b631ef271c11aafefd184fcc8b0c24c7020a67e84cdca2"
+hash = "40e1fdc8c58f72bb947b978a773cf963b2d28bb49832500c2bd886f7ac6629bb"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e2b958559578f4b9f01800078a312858adb12528764f7a82f2c905425cbceb44"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
@@ -3215,12 +3215,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ff020bc5ee832f47d93b72d0a1f575ab0e830591c627045bd9f56894439281cc"
+hash = "efe6cc0654854721eea3b7f12d87a00424b747728d8024ae3d1883e068fd67eb"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "40f64f27a4d1fb8575285a8b02b665bb8d6f995319ac12e0c282441e6b25b279"
+hash = "4ccb643060b19f26c60d3a35a9f0ef5eddb716349f32126498e957072838499c"
 metafile = true
 
 [[files]]
@@ -3229,25 +3229,25 @@ hash = "740df4e92d3fdc2a25046e477730d61f24787b6c1b3a1a111e17c5454e203aee"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "0a6b5273ddd93f5b3989bafdec468438986b59947ce2414cc7143abead79ea78"
+hash = "5771df606b668191563648e59fd3d6208919afd5ebf1cbac816c7df0ad485dc9"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
-hash = "dc753e2ac6ad348889fdfb769443cea0a43d0d969134a210f13213091242479a"
+hash = "960ff0bf24fac909dd6c99fc7a3630d833c21937c07f2c713c8b43ba308185bc"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "8db78418e90428615f7bf40e394ab83fc3a0b4784875fd1168d9321a2dcacf2e"
+hash = "b34a8fe09536b089aaab8f625bda116047271e3cb44a7c9f5c2eea7aaadc4f30"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "06622d9c7e30c7aaebde2c206d0546e4276c839f76540341209a4f8bc4a4935e"
+hash = "91a77a3f031bdf1ac4de9d1be6925704e85dfd8895bad7b717fc2ec1d50d9114"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "c7d3c0d802a7626bde25fe3ecbe84f8834f5d11518772e678ca9ac94c9bcdac1"
+hash = "70db0963bd7131d0cd9a90b0c38bb84b709034e2cec004a675b4bff1f058102d"
 metafile = true
