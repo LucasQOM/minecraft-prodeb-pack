@@ -805,6 +805,14 @@ file = "datapacks/double shulker shells v1.3.14 (MC 1.21-1.21.10)/pack.png"
 hash = "c624c432d135bdf16a04e53cde761b417c0f31f681b9a280fa445d0f4684fc72"
 
 [[files]]
+file = "datapacks/fix-create-dragons-plus/data/sable/tags/block/fragile.json"
+hash = "9b7baeb6ff2a557810311be0cd49a53abdb4a249a1dea20a6886a316376ef167"
+
+[[files]]
+file = "datapacks/fix-create-dragons-plus/pack.mcmeta"
+hash = "7dabb36ba2e6a1d01c76ee18f1b4baa88d7a5f403aca6cdb97bc9d6e323dff3d"
+
+[[files]]
 file = "datapacks/more mob heads v2.17.3 (MC 1.21-1.21.10).zip"
 hash = "c2162acc3bbcaf1dae9aaf7398438772d3429b7218a25801924c3094158863c2"
 

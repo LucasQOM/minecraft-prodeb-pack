@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "Fix sable:fragile tag error caused by Create Dragons Plus issue #70"
+  }
+}
