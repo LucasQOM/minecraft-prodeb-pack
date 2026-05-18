@@ -2924,6 +2924,11 @@ hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
 metafile = true
 
 [[files]]
+file = "mods/foxys.pw.toml"
+hash = "05c0c67cda7ba2427d0a81561a5f2d66be86676bad3d47e83e246f3f7d92bee2"
+metafile = true
+
+[[files]]
 file = "mods/free-cam.pw.toml"
 hash = "6cb0747f46236c96b3132b4d8bee0fd2b1409340dace5dc7b336a5534fa597f5"
 metafile = true
@@ -2946,6 +2951,11 @@ metafile = true
 [[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "317890a10a1ccd7d28cfbcdce16708e133a97c3a49d5f8c86a095e324e044a97"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "901106fc6fcb4dcb86c13dd8c1dfb0d26e048387fec5bd610d06082242bd786a"
 metafile = true
 
 [[files]]
