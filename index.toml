@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CLAUDE.md"
-hash = "658273d9cf5aeca9897e7051e4e025bdf75f8012aea2119257fdae6e6d80d2cf"
+hash = "c7509fbc7acb16a09ad05e10f88bf398b540c9cc23cfd8656951b1a2a3f76620"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -2921,11 +2921,6 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "69ccc78abd447582c726f2dca72294a59af0c13c8e1ec3ae32b3bacd6469206e"
-metafile = true
-
-[[files]]
-file = "mods/foxys.pw.toml"
-hash = "05c0c67cda7ba2427d0a81561a5f2d66be86676bad3d47e83e246f3f7d92bee2"
 metafile = true
 
 [[files]]

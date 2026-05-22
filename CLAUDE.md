@@ -2,12 +2,26 @@
 
 Modpack Minecraft 1.21.1 NeoForge 21.1.209, gerenciado via packwiz.
 
+## Instalação do packwiz
+
+**macOS / Linux:**
+```bash
+go install github.com/packwiz/packwiz@latest
+# Adicione ao ~/.zshrc ou ~/.bashrc:
+export PATH="$HOME/go/bin:$PATH"
+```
+
+**Windows:**
+Baixar o executável em https://github.com/packwiz/packwiz/releases e colocar em `D:\packwiz.exe`.
+
 ## Caminhos importantes
 
-- **Pack (este repo):** `D:\Projetos Programação\prodeb-pack\`
-- **packwiz.exe:** `D:\packwiz.exe`
-- **Instância cliente (CurseForge):** `C:\Users\lucas\curseforge\minecraft\Instances\Prodeb\`
-- **Servidor:** `F:\crafty-controller\servers\c7765537-b400-4f06-b6d0-dd2a6008d942\`
+- **Pack (este repo):**
+  - macOS/Linux: `~/Projetos/minecraft-prodeb-pack/`
+  - Windows: `D:\Projetos Programação\prodeb-pack\`
+- **packwiz:** `packwiz` (macOS/Linux) ou `D:\packwiz.exe` (Windows)
+- **Instância cliente (CurseForge, Windows):** `C:\Users\lucas\curseforge\minecraft\Instances\Prodeb\`
+- **Servidor (Windows):** `F:\crafty-controller\servers\c7765537-b400-4f06-b6d0-dd2a6008d942\`
 
 ## URL do pack (GitHub Pages)
 
@@ -32,13 +46,11 @@ datapacks/         — datapacks incluídos no pack
 ### Adicionar um mod novo
 
 ```bash
-cd "D:\Projetos Programação\prodeb-pack"
-
 # Busca e instala pelo Modrinth
-D:\packwiz.exe modrinth install <slug-ou-url>
+packwiz modrinth install <slug-ou-url>
 
 # Busca e instala pelo CurseForge
-D:\packwiz.exe curseforge install <slug-ou-url>
+packwiz curseforge install <slug-ou-url>
 ```
 
 Depois de adicionar, verificar se o mod é client-only e ajustar `side` se necessário (ver seção abaixo).
@@ -56,10 +68,10 @@ Quando instalado pelo CLI (`packwiz modrinth install`), o formato correto é ger
 
 ```bash
 # Atualizar um mod específico
-D:\packwiz.exe update <nome-do-mod>
+packwiz update <nome-do-mod>
 
 # Atualizar todos os mods
-D:\packwiz.exe update --all
+packwiz update --all
 ```
 
 ### Publicar atualização (clientes e servidor recebem automaticamente)
@@ -83,7 +95,7 @@ Após o push, o GitHub Pages atualiza em ~1 min. Na próxima vez que um amigo ab
 ### Testar localmente antes de publicar
 
 ```bash
-D:\packwiz.exe serve
+packwiz serve
 # Inicia servidor local em http://localhost:8080/pack.toml
 # Configure o launcher para apontar para essa URL durante testes
 ```
@@ -91,7 +103,7 @@ D:\packwiz.exe serve
 ### Regenerar index manualmente (se editar arquivos à mão)
 
 ```bash
-D:\packwiz.exe refresh
+packwiz refresh
 ```
 
 ## Configuração de `side` nos mods
@@ -125,7 +137,7 @@ Download: https://github.com/packwiz/packwiz-installer-bootstrap/releases
 ### CurseForge App (sem auto-update)
 Exportar manualmente e redistribuir:
 ```bash
-D:\packwiz.exe curseforge export
+packwiz curseforge export
 ```
 
 ## Configuração do servidor
