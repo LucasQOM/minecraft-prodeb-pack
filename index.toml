@@ -9,10 +9,6 @@ file = "config/CoroUtil/General.toml"
 hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "ac1f6d37cad864f7dcb901be3c17266fe48ee44982b12a2ca2be0287fcea3bdb"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -2861,11 +2857,6 @@ metafile = true
 [[files]]
 file = "mods/deployer.pw.toml"
 hash = "34f20675ca26ae05670def8d9d84faf42009fabd1113d1739cea6fd380420aac"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "133e7c9295b9e7e8577b5ca36cf9548b4c590eeb0708fdeb9cb59c2758759ac8"
 metafile = true
 
 [[files]]
